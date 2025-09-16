@@ -35,7 +35,7 @@ class _WeatherHomeState extends State<WeatherHome> {
   List<Map<String, String>> forecast = [];
 
   final List<String> conditions = ['Sunny', 'Cloudy', 'Rainy'];
-
+// Weather Data Generation
   void _fetchWeather() {
     final random = Random();
     setState(() {
