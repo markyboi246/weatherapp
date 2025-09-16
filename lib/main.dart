@@ -17,7 +17,7 @@ class WeatherApp extends StatelessWidget {
     );
   }
 }
-
+// Weather UI
 class WeatherHome extends StatefulWidget {
   const WeatherHome({super.key});
 
