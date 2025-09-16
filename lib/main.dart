@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(const WeatherApp());
 }
-
+// APP SETUP
 class WeatherApp extends StatelessWidget {
   const WeatherApp({super.key});
 
